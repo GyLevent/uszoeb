@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\uszoeb_Gyurko_Levente_backend.props" />
+</Project>
